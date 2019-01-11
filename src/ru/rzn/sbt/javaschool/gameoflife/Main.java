@@ -23,7 +23,7 @@ public class Main {
     }
 
     public static void setLiveCells(boolean[][] someGrid){
-
+        //Glider
         someGrid[4][3] = true;
         someGrid[4][4] = true;
         someGrid[4][5] = true;
